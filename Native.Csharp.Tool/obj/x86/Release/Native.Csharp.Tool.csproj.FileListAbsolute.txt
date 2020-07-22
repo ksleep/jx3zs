@@ -1,0 +1,8 @@
+D:\MineRobot\Native.Csharp.Tool\bin\x86\Release\Native.Csharp.Tool.xml
+D:\MineRobot\Native.Csharp.Tool\bin\x86\Release\Native.Csharp.Tool.dll
+D:\MineRobot\Native.Csharp.Tool\bin\x86\Release\Native.Csharp.Tool.pdb
+D:\MineRobot\Native.Csharp.Tool\obj\x86\Release\Native.Csharp.Tool.csprojAssemblyReference.cache
+D:\MineRobot\Native.Csharp.Tool\obj\x86\Release\Native.Csharp.Tool.SQLite.Resources.SR.resources
+D:\MineRobot\Native.Csharp.Tool\obj\x86\Release\Native.Csharp.Tool.csproj.GenerateResource.cache
+D:\MineRobot\Native.Csharp.Tool\obj\x86\Release\Native.Csharp.Tool.dll
+D:\MineRobot\Native.Csharp.Tool\obj\x86\Release\Native.Csharp.Tool.pdb

@@ -120,7 +120,6 @@
     </Compile>
     <Compile Include="App\Event\Event_CqAppDisable.cs" />
     <Compile Include="App\Event\Event_CqAppEnable.cs" />
-    <Compile Include="App\Event\Event_AppMain.cs" />
     <Compile Include="App\Event\Event_CqExit.cs" />
     <Compile Include="App\Event\Event_CqStartup.cs" />
     <Compile Include="App\Event\Event_GroupMessage.cs" />
